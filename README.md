@@ -1,5 +1,5 @@
 # dnsclient-api
-A .NET core API built using Swagger, DnsClient, and Rollbar
+A .NET core API built using Swagger, DnsClient.NET, and Rollbar.
 
 Saw someone post on UpWork that they wanted an API to retrieve DNS information for a domain, specifically TXT records. I never heard back from them, so I took on the challenge anyway. I created this is in less than 24 hours spread out over 2 days. Its free for anyone to use now but remember it’s still rough around the edges.
 
